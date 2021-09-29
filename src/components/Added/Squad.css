@@ -1,0 +1,14 @@
+.pl {
+  border: 1px solid lightgray;
+}
+.pl h6{
+  color:rosybrown;
+  font-weight: 600;
+}
+.pl p{
+  color: royalblue;
+  font-weight: 600;
+  padding: 5px;
+  border-radius: 5px;
+}
+

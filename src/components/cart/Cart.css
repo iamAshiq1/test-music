@@ -1,0 +1,20 @@
+.card img {
+  width: 50%;
+}
+.card:hover {
+  transition: 0.2s;
+  box-shadow: 0px 5px 15px gray;
+}
+.button {
+  background-color: royalblue;
+  border: 2px solid royalblue;
+  color: white;
+  border-radius: 20px;
+  padding: 2px 35px;
+}
+.button:hover {
+  border: 2px solid royalblue;
+  background-color: white;
+  color: royalblue;
+  transition: 0.3s;
+}

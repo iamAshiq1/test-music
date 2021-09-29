@@ -1,0 +1,97 @@
+[
+
+    { "id": 1,
+      "name": "Just a Dream",
+      "artist": "Nelly",     
+      "share": "Share",
+     "images": "https://freeiconshop.com/wp-content/uploads/edd/music-quaver-flat.png",
+      "add": "Add to Playlist"
+    },
+    { "id": 2,
+      "name": "Bad liar",
+      "artist": "Imagin dragons",
+      
+      "share": "Share",
+     "images": "https://freeiconshop.com/wp-content/uploads/edd/music-quaver-flat.png",
+      "add": "Add to Playlist"
+    },
+    { "id": 3,
+      "name": "Thinking Out Loud",
+      "artist": "Ed Sheeran",
+    
+      "share": "Share",
+     "images": "https://freeiconshop.com/wp-content/uploads/edd/music-quaver-flat.png",
+      "add": "Add to Playlist"
+    },
+    { "id": 4,
+      "name": "Despasito",
+      "artist": "Luis Fonsi ft. daddy",
+      "share": "Share",
+     "images": "https://freeiconshop.com/wp-content/uploads/edd/music-quaver-flat.png",
+      "add": "Add to Playlist"
+    },
+    { "id": 5,
+      "name": "Sorry",
+      "artist": "Justin Bieber",
+      
+      "share": "Share",
+     "images": "https://freeiconshop.com/wp-content/uploads/edd/music-quaver-flat.png",
+      "add": "Add to Playlist"
+    },
+    { "id": 6,
+      "name": "When I'm gone",
+      "artist": "Eminem",
+      
+      "share": "Share",
+     "images": "https://freeiconshop.com/wp-content/uploads/edd/music-quaver-flat.png",
+      "add": "Add to Playlist"
+    },
+    { "id": 7,
+      "name": "Blinding Star",
+      "artist": "The Weekend",
+      
+      "share": "Share",
+     "images": "https://freeiconshop.com/wp-content/uploads/edd/music-quaver-flat.png",
+      "add": "Add to Playlist"
+    },
+    { "id": 8,
+      "name": "Old Town Road",
+      "artist": "Lil Nas X",
+      
+      "share": "Share",
+     "images": "https://freeiconshop.com/wp-content/uploads/edd/music-quaver-flat.png",
+      "add": "Add to Playlist"
+    },
+    { "id": 9,
+      "name": "The Lazy Song",
+      "artist": "Bruno Mars",
+      "share": "Share",
+     "images": "https://freeiconshop.com/wp-content/uploads/edd/music-quaver-flat.png",
+      "add": "Add to Playlist"
+    }
+    ,
+    { "id": 10,
+      "name": "I Want it That Way",
+      "artist": "Backstreet Boys",
+      "share": "Share",
+     "images": "https://freeiconshop.com/wp-content/uploads/edd/music-quaver-flat.png",
+      "add": "Add to Playlist"
+    },
+    { "id": 11,
+      "name": "Boyfriend",
+      "artist": "Justin Bieber",
+      "share": "Share",
+     "images": "https://freeiconshop.com/wp-content/uploads/edd/music-quaver-flat.png",
+      "add": "Add to Playlist"
+    }
+,
+    { "id": 12,
+      "name": "Arina Grande",
+      "artist": "No Tears Left to Cry",
+      "share": "Share",
+     "images": "https://freeiconshop.com/wp-content/uploads/edd/music-quaver-flat.png",
+      "add": "Add to Playlist"
+    }
+
+   
+  ]
